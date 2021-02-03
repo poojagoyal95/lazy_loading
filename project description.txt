@@ -1,0 +1,2 @@
+In this I have to show records using lazy loading.
+First I display 2 records and get from database and when scroll reaches at end of page , I uses ajax request for more records using paginator class with different page number.
